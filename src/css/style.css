@@ -1,0 +1,18 @@
+div {
+  display: flex;
+  background-color: lightgray;
+  margin: auto;
+  width: 300px;
+  height: 100px;
+  text-align: center;
+  align-items: center; }
+  div p {
+    margin: auto;
+    padding: 20px 0; }
+    div p span {
+      font-size: 2rem; }
+      div p span span {
+        font-size: 1000px; }
+
+.my-custom-class {
+  background-color: red !important; }
