@@ -3,7 +3,7 @@ live compile sass and sync browser using gulp and browser-sync
 
 ---
 
-1. Clone or Downlod -> Download zip
+1. Clone or Download -> Download zip
 2. Expand gulptest-master.zip, move to My Documents, rename gulptest-master to gulptest
 3. Open Node.js command prompt
 4. `cd %USERPROFILE%\Documents\gulptest`
